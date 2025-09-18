@@ -96,7 +96,7 @@ header h1 {
 }
 
 .album-title {
-  font-size: 1.5rem;
+  font-size: 3rem;
   font-weight: 300;
   opacity: 0.9;
   margin-bottom: 2.5rem;
@@ -558,4 +558,5 @@ nav a:focus,
   body {
     background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
   }
+
 }
