@@ -458,7 +458,7 @@ footer {
   }
   
   .album-title {
-    font-size: 1.2rem;
+    font-size: 3rem;
   }
   
   nav {
@@ -560,3 +560,4 @@ nav a:focus,
   }
 
 }
+
