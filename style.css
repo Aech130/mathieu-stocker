@@ -96,7 +96,7 @@ header h1 {
 }
 
 .album-title {
-  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-size: clamp(2.5rem, 5vw, 4rem) !important;
   font-weight: 500;
   opacity: 0.9;
   margin-bottom: 2.5rem;
@@ -496,7 +496,7 @@ footer {
     justify-content: center;
   }
     .album-title {
-    font-size: 3rem;
+    font-size: 3rem !important;
   }
 }
 
@@ -559,6 +559,7 @@ nav a:focus,
   }
 
 }
+
 
 
 
