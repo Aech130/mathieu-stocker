@@ -96,8 +96,8 @@ header h1 {
 }
 
 .album-title {
-  font-size: 3rem;
-  font-weight: 300;
+  font-size: 10rem;
+  font-weight: 1000;
   opacity: 0.9;
   margin-bottom: 2.5rem;
   letter-spacing: 0.1em;
@@ -458,7 +458,7 @@ footer {
   }
   
   .album-title {
-    font-size: 3rem;
+    font-size: 10rem;
   }
   
   nav {
@@ -560,4 +560,5 @@ nav a:focus,
   }
 
 }
+
 
